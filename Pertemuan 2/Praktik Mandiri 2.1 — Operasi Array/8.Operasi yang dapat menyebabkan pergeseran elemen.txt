@@ -1,0 +1,4 @@
+Operasi yang dapat menyebabkan pergeseran elemen adalah insert() dan pop().
+
+1.insert() → elemen pada posisi tersebut dan setelahnya bergeser ke kanan.
+2.pop() → elemen setelah posisi yang dihapus bergeser ke kiri.
