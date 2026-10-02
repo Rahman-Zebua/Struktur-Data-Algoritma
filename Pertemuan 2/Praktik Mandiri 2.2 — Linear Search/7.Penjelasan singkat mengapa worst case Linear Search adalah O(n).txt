@@ -1,0 +1,6 @@
+Penjelasan singkat mengapa worst case Linear Search adalah O(n)
+
+Worst case Linear Search adalah O(n) karena pada kondisi terburuk, algoritma harus memeriksa semua elemen dalam list. 
+Hal ini terjadi ketika target berada pada elemen terakhir atau target tidak ditemukan. 
+Jika jumlah data bertambah, jumlah pemeriksaan juga bertambah sesuai dengan jumlah data tersebut. 
+Oleh karena itu, kompleksitas waktu Linear Search pada worst case adalah O(n).

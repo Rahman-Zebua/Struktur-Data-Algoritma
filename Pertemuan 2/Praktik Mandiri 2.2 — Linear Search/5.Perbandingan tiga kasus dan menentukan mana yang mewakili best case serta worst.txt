@@ -1,0 +1,8 @@
+Perbandingan tiga kasus dan menentukan mana yang mewakili best case serta worst
+case
+
+1. Elemen pertama → Best Case, karena target langsung ditemukan pada pemeriksaan pertama sehingga proses pencarian sangat cepat.
+
+2. Elemen terakhir → Worst Case, karena semua elemen harus diperiksa terlebih dahulu sampai target ditemukan pada pemeriksaan ke-15.
+
+3. Tidak ditemukan → Worst Case, karena seluruh 15 elemen harus diperiksa untuk memastikan bahwa target tidak terdapat dalam data.
